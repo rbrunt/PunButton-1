@@ -6,5 +6,9 @@
     <string name="menu_settings">Settings</string>
     <string name="ready_to_pun">Ready to pun?</string>
     <string name="pun_button">PUN!</string>
+    <string name="pun">Pun?!</string>
+    <string name="argo">Argo!</string>
+    <string name="ricky">Ricky error!</string>
+    <string name="incoming">Incoming pun&#8230;</string>
 
 </resources>

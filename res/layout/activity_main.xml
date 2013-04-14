@@ -24,4 +24,14 @@
         android:text="@string/pun_button"
         android:onClick="playPun" />
 
+    <TextView
+        android:id="@+id/pun_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pun_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp"
+        android:text="@string/incoming"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
 </RelativeLayout>
