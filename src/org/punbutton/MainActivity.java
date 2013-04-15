@@ -37,7 +37,7 @@ public class MainActivity extends Activity {
 			if (nextPun > 2) {
 				nextPun = 0;
 			}
-		} catch (Exception e){
+		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
